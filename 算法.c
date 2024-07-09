@@ -12,4 +12,3 @@ void insertSort(){
     }
 }
 
-23:57
